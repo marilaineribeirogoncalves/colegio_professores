@@ -29,7 +29,7 @@ body {
 }
 
 .cabecalho-lista-item a{
-    text-decoration: none; 
+    text-decoration: none;
     color: white;
 }
 
@@ -97,5 +97,5 @@ body {
 .rodape-imagem{
     height: 60px;
     padding: 12px 0;
-
+   
 }
